@@ -1,0 +1,2 @@
+1. The bug is that when you input two numbers to sum them, the numbers get concatenated like strings instead of being added.
+2. The fix would be to convert the inputs to numbers before performing the addition. Screenshot of code will be included
